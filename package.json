@@ -1,8 +1,9 @@
 {
   "name": "comunicai-backend",
   "version": "1.0.0",
+  "description": "Backend per ComunicAI",
   "main": "server.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node server.js"
   },
